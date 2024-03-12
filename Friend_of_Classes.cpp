@@ -1,0 +1,1 @@
+/*A friend is a function or a class that is not a member of a class but as access to the private members of the class*/
